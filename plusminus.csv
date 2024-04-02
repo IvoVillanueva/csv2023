@@ -1,0 +1,529 @@
+period,id_match,team_team_abbrev_name,loc_vis,license_licenseNick,type_normalized_description,minute,second,score_local,score_visitor
+1,103789,JOV,FALSE,Feliz,Starting Five,10,0,0,0
+1,103789,JOV,FALSE,Busquets,Starting Five,10,0,0,0
+1,103789,JOV,FALSE,Tomic,Starting Five,10,0,0,0
+1,103789,JOV,FALSE,Thomas,Starting Five,10,0,0,0
+1,103789,JOV,FALSE,Andrews,Starting Five,10,0,0,0
+1,103789,BAR,TRUE,Satoransky,Starting Five,10,0,0,0
+1,103789,BAR,TRUE,Laprovittola,Starting Five,10,0,0,0
+1,103789,BAR,TRUE,Da Silva,Starting Five,10,0,0,0
+1,103789,BAR,TRUE,Parra,Starting Five,10,0,0,0
+1,103789,BAR,TRUE,Hernangómez,Starting Five,10,0,0,0
+1,103789,NA,FALSE,NA,Start of the Game,10,0,0,0
+1,103789,NA,FALSE,NA,Start of the Quarter,10,0,0,0
+1,103789,JOV,FALSE,Tomic,Won jump,10,0,0,0
+1,103789,BAR,TRUE,Hernangómez,Lost jump,10,0,0,0
+1,103789,JOV,FALSE,Tomic,Turnover,9,46,0,0
+1,103789,BAR,TRUE,Parra,Steal,9,46,0,0
+1,103789,BAR,TRUE,Da Silva,Turnover,9,37,0,0
+1,103789,JOV,FALSE,Andrews,3-Point Shot Missed,9,20,0,0
+1,103789,BAR,TRUE,Hernangómez,Defensive Rebound,9,20,0,0
+1,103789,BAR,TRUE,Hernangómez,3-Point Shot Missed,8,58,0,0
+1,103789,JOV,FALSE,Thomas,Defensive Rebound,8,58,0,0
+1,103789,JOV,FALSE,Tomic,2-Point Shot Made,8,39,0,2
+1,103789,BAR,TRUE,Laprovittola,2-Point Shot Made,8,23,2,2
+1,103789,JOV,FALSE,Andrews,2-Point Shot Made,8,7,2,4
+1,103789,BAR,TRUE,Satoransky,3-Point Shot Made,7,51,5,4
+1,103789,JOV,FALSE,Andrews,3-Point Shot Made,7,34,5,7
+1,103789,BAR,TRUE,Laprovittola,2-Point Shot Missed,7,18,5,7
+1,103789,JOV,FALSE,Tomic,Defensive Rebound,7,18,5,7
+1,103789,BAR,TRUE,Satoransky,Foul No FT,7,15,5,7
+1,103789,JOV,FALSE,Feliz,Foul Received,7,15,5,7
+1,103789,JOV,FALSE,Busquets,3-Point Shot Missed,6,58,5,7
+1,103789,BAR,TRUE,Da Silva,Defensive Rebound,6,58,5,7
+1,103789,JOV,FALSE,Andrews,Foul No FT,6,54,5,7
+1,103789,BAR,TRUE,Laprovittola,Foul Received,6,54,5,7
+1,103789,BAR,TRUE,Parra,3-Point Shot Made,6,47,8,7
+1,103789,BAR,TRUE,Da Silva,Assist 3-Point Shot,6,47,8,7
+1,103789,JOV,FALSE,Feliz,2-Point Shot Missed,6,23,8,7
+1,103789,JOV,FALSE,Tomic,Offensive Rebound,6,23,8,7
+1,103789,JOV,FALSE,Tomic,3-Point Shot Missed,6,17,8,7
+1,103789,JOV,FALSE,Busquets,Offensive Rebound,6,17,8,7
+1,103789,JOV,FALSE,Feliz,3-Point Shot Missed,6,10,8,7
+1,103789,BAR,TRUE,Da Silva,Defensive Rebound,6,10,8,7
+1,103789,BAR,TRUE,Laprovittola,Turnover,5,58,8,7
+1,103789,JOV,FALSE,Thomas,Steal,5,58,8,7
+1,103789,BAR,TRUE,Laprovittola,Foul No FT,5,50,8,7
+1,103789,JOV,FALSE,Tomic,Foul Received,5,50,8,7
+1,103789,JOV,FALSE,Feliz,2-Point Shot Made,5,47,8,9
+1,103789,JOV,FALSE,Thomas,Assist 2-Point Shot,5,47,8,9
+1,103789,BAR,TRUE,Satoransky,3-Point Shot Missed,5,31,8,9
+1,103789,JOV,FALSE,Feliz,Defensive Rebound,5,31,8,9
+1,103789,BAR,TRUE,Hernangómez,Foul No FT,5,29,8,9
+1,103789,JOV,FALSE,Feliz,Foul Received,5,29,8,9
+1,103789,JOV,FALSE,Andrews,2-Point Shot Missed,5,6,8,9
+1,103789,BAR,TRUE,Parra,Defensive Rebound,5,6,8,9
+1,103789,BAR,TRUE,Parra,2-Point Shot Made,5,2,10,9
+1,103789,JOV,FALSE,Busquets,3-Point Shot Made,4,48,10,12
+1,103789,JOV,FALSE,Feliz,Assist 3-Point Shot,4,48,10,12
+1,103789,BAR,TRUE,Laprovittola,Turnover,4,36,10,12
+1,103789,JOV,FALSE,Thomas,Steal,4,36,10,12
+1,103789,JOV,FALSE,Andrews,3-Point Shot Missed,4,31,10,12
+1,103789,JOV,FALSE,Busquets,Offensive Rebound,4,31,10,12
+1,103789,JOV,FALSE,Tomic,Offensive Foul,4,24,10,12
+1,103789,JOV,FALSE,Tomic,Turnover,4,24,10,12
+1,103789,BAR,TRUE,Parra,Foul Received,4,24,10,12
+1,103789,BAR,TRUE,Hernangómez,Substitution - Out,4,24,10,12
+1,103789,BAR,TRUE,Laprovittola,Substitution - Out,4,24,10,12
+1,103789,BAR,TRUE,Vesely,Substitution - In,4,24,10,12
+1,103789,BAR,TRUE,Brizuela,Substitution - In,4,24,10,12
+1,103789,JOV,FALSE,Thomas,Substitution - Out,4,24,10,12
+1,103789,JOV,FALSE,Andrews,Substitution - Out,4,24,10,12
+1,103789,JOV,FALSE,Brodziansky,Substitution - In,4,24,10,12
+1,103789,JOV,FALSE,Ribas,Substitution - In,4,24,10,12
+1,103789,BAR,TRUE,Da Silva,3-Point Shot Made,4,7,13,12
+1,103789,BAR,TRUE,Parra,Assist 3-Point Shot,4,7,13,12
+1,103789,JOV,FALSE,Tomic,2-Point Shot Made,3,46,13,14
+1,103789,BAR,TRUE,Satoransky,2-Point Shot Made,3,27,15,14
+1,103789,JOV,FALSE,Tomic,2-Point Shot Missed,3,10,15,14
+1,103789,JOV,FALSE,Tomic,Offensive Rebound,3,10,15,14
+1,103789,BAR,TRUE,Brizuela,Foul No FT,3,9,15,14
+1,103789,JOV,FALSE,Tomic,Foul Received,3,9,15,14
+1,103789,BAR,TRUE,Satoransky,Substitution - Out,3,9,15,14
+1,103789,BAR,TRUE,Jokubaitis,Substitution - In,3,9,15,14
+1,103789,JOV,FALSE,Feliz,Substitution - Out,3,9,15,14
+1,103789,JOV,FALSE,Tomic,Substitution - Out,3,9,15,14
+1,103789,JOV,FALSE,Vives,Substitution - In,3,9,15,14
+1,103789,JOV,FALSE,Onuaku,Substitution - In,3,9,15,14
+1,103789,JOV,FALSE,Brodziansky,2-Point Shot Missed,3,2,15,14
+1,103789,JOV,FALSE,Brodziansky,Block Received,3,2,15,14
+1,103789,BAR,TRUE,Da Silva,Block,3,2,15,14
+1,103789,BAR,TRUE,Da Silva,Defensive Rebound,3,2,15,14
+1,103789,BAR,TRUE,Da Silva,2-Point Shot Missed,2,53,15,14
+1,103789,JOV,FALSE,Busquets,Defensive Rebound,2,53,15,14
+1,103789,JOV,FALSE,Onuaku,Turnover,2,34,15,14
+1,103789,BAR,TRUE,Parra,Steal,2,34,15,14
+1,103789,JOV,FALSE,Ribas,Foul No FT,2,33,15,14
+1,103789,BAR,TRUE,Parra,Foul Received,2,33,15,14
+1,103789,BAR,TRUE,Da Silva,Substitution - Out,2,33,15,14
+1,103789,BAR,TRUE,Parra,Substitution - Out,2,33,15,14
+1,103789,BAR,TRUE,Kalinic,Substitution - In,2,33,15,14
+1,103789,BAR,TRUE,Parker,Substitution - In,2,33,15,14
+1,103789,JOV,FALSE,Busquets,Substitution - Out,2,33,15,14
+1,103789,JOV,FALSE,Kraag,Substitution - In,2,33,15,14
+1,103789,BAR,TRUE,Brizuela,2-Point Shot Made,2,27,17,14
+1,103789,BAR,TRUE,Parker,Foul 2FT,2,11,17,14
+1,103789,JOV,FALSE,Brodziansky,Foul Received,2,11,17,14
+1,103789,JOV,FALSE,Brodziansky,Free Throw Made,2,11,17,15
+1,103789,JOV,FALSE,Brodziansky,Free Throw Made,2,11,17,16
+1,103789,BAR,TRUE,Jokubaitis,2-Point Shot Made,1,55,19,16
+1,103789,JOV,FALSE,Vives,3-Point Shot Missed,1,35,19,16
+1,103789,BAR,TRUE,Brizuela,Defensive Rebound,1,35,19,16
+1,103789,JOV,FALSE,Vives,Foul No FT,1,20,19,16
+1,103789,BAR,TRUE,Kalinic,Foul Received,1,20,19,16
+1,103789,BAR,TRUE,Parker,3-Point Shot Made,1,9,22,16
+1,103789,BAR,TRUE,Kalinic,Assist 3-Point Shot,1,9,22,16
+1,103789,JOV,FALSE,Brodziansky,2-Point Shot Made,0,43,22,18
+1,103789,BAR,TRUE,Parker,3-Point Shot Missed,0,30,22,18
+1,103789,JOV,FALSE,Vives,Defensive Rebound,0,30,22,18
+1,103789,JOV,FALSE,Onuaku,2-Point Shot Made,0,7,22,20
+1,103789,BAR,TRUE,Jokubaitis,2-Point Shot Missed,0,0,22,20
+1,103789,NA,FALSE,NA,End of the Quarter,0,0,22,20
+2,103789,NA,FALSE,NA,Start of the Quarter,10,0,22,20
+2,103789,JOV,FALSE,Ribas,Substitution - Out,10,0,22,20
+2,103789,JOV,FALSE,Andrews,Substitution - In,10,0,22,20
+2,103789,JOV,FALSE,NA,Turnover,9,35,22,20
+2,103789,BAR,TRUE,NA,Steal,9,35,22,20
+2,103789,BAR,TRUE,Vesely,2-Point Shot Missed,9,18,22,20
+2,103789,JOV,FALSE,Brodziansky,Defensive Rebound,9,18,22,20
+2,103789,JOV,FALSE,Onuaku,2-Point Shot Made,9,6,22,22
+2,103789,JOV,FALSE,Onuaku,Foul 2FT,8,46,22,22
+2,103789,BAR,TRUE,Jokubaitis,Foul Received,8,46,22,22
+2,103789,BAR,TRUE,Jokubaitis,Free Throw Made,8,46,23,22
+2,103789,BAR,TRUE,Jokubaitis,Free Throw Made,8,46,24,22
+2,103789,JOV,FALSE,Brodziansky,2-Point Shot Made,8,31,24,24
+2,103789,BAR,TRUE,Brizuela,Substitution - Out,8,23,24,24
+2,103789,BAR,TRUE,Abrines,Substitution - In,8,23,24,24
+2,103789,BAR,TRUE,Kalinic,2-Point Shot Made,8,18,26,24
+2,103789,BAR,TRUE,Abrines,Foul No FT,8,3,26,24
+2,103789,JOV,FALSE,Andrews,Foul Received,8,3,26,24
+2,103789,JOV,FALSE,Andrews,3-Point Shot Missed,7,56,26,24
+2,103789,BAR,TRUE,Vesely,Defensive Rebound,7,56,26,24
+2,103789,BAR,TRUE,Parker,2-Point Shot Missed,7,48,26,24
+2,103789,JOV,FALSE,Brodziansky,Defensive Rebound,7,48,26,24
+2,103789,JOV,FALSE,Brodziansky,2-Point Shot Missed,7,23,26,24
+2,103789,BAR,TRUE,Vesely,Defensive Rebound,7,23,26,24
+2,103789,BAR,TRUE,Jokubaitis,3-Point Shot Missed,7,7,26,24
+2,103789,JOV,FALSE,Brodziansky,Defensive Rebound,7,7,26,24
+2,103789,JOV,FALSE,Onuaku,2-Point Shot Missed,6,42,26,24
+2,103789,BAR,TRUE,Parker,Defensive Rebound,6,42,26,24
+2,103789,BAR,TRUE,Abrines,2-Point Shot Missed,6,16,26,24
+2,103789,JOV,FALSE,NA,Defensive Rebound,6,16,26,24
+2,103789,BAR,TRUE,Jokubaitis,Substitution - Out,6,16,26,24
+2,103789,BAR,TRUE,Parker,Substitution - Out,6,16,26,24
+2,103789,BAR,TRUE,Satoransky,Substitution - In,6,16,26,24
+2,103789,BAR,TRUE,Da Silva,Substitution - In,6,16,26,24
+2,103789,JOV,FALSE,Brodziansky,Substitution - Out,6,16,26,24
+2,103789,JOV,FALSE,Vives,Substitution - Out,6,16,26,24
+2,103789,JOV,FALSE,Onuaku,Substitution - Out,6,16,26,24
+2,103789,JOV,FALSE,Thomas,Substitution - In,6,16,26,24
+2,103789,JOV,FALSE,Tomic,Substitution - In,6,16,26,24
+2,103789,JOV,FALSE,Feliz,Substitution - In,6,16,26,24
+2,103789,JOV,FALSE,Andrews,2-Point Shot Missed,6,7,26,24
+2,103789,JOV,FALSE,Andrews,Block Received,6,7,26,24
+2,103789,BAR,TRUE,Kalinic,Block,6,7,26,24
+2,103789,BAR,TRUE,NA,Defensive Rebound,6,7,26,24
+2,103789,JOV,FALSE,Andrews,Foul 2FT,5,53,26,24
+2,103789,BAR,TRUE,Abrines,Foul Received,5,53,26,24
+2,103789,BAR,TRUE,Abrines,Free Throw Missed,5,53,26,24
+2,103789,BAR,TRUE,Abrines,Free Throw Made,5,53,27,24
+2,103789,JOV,FALSE,Feliz,2-Point Shot Missed,5,34,27,24
+2,103789,BAR,TRUE,Vesely,Defensive Rebound,5,34,27,24
+2,103789,BAR,TRUE,Abrines,3-Point Shot Missed,5,28,27,24
+2,103789,JOV,FALSE,Kraag,Foul No FT,5,28,27,24
+2,103789,BAR,TRUE,Kalinic,Foul Received,5,28,27,24
+2,103789,BAR,TRUE,NA,Timeout,5,28,27,24
+2,103789,JOV,FALSE,Andrews,Substitution - Out,5,28,27,24
+2,103789,JOV,FALSE,Ribas,Substitution - In,5,28,27,24
+2,103789,BAR,TRUE,Kalinic,3-Point Shot Made,5,16,30,24
+2,103789,BAR,TRUE,Vesely,Assist 3-Point Shot,5,16,30,24
+2,103789,JOV,FALSE,Tomic,2-Point Shot Missed,4,57,30,24
+2,103789,BAR,TRUE,Da Silva,Defensive Rebound,4,57,30,24
+2,103789,BAR,TRUE,Satoransky,2-Point Shot Made,4,49,32,24
+2,103789,JOV,FALSE,NA,Timeout,4,49,32,24
+2,103789,BAR,TRUE,Vesely,Substitution - Out,4,49,32,24
+2,103789,BAR,TRUE,Hernangómez,Substitution - In,4,49,32,24
+2,103789,JOV,FALSE,Kraag,Substitution - Out,4,49,32,24
+2,103789,JOV,FALSE,Busquets,Substitution - In,4,49,32,24
+2,103789,JOV,FALSE,Tomic,2-Point Shot Missed,4,33,32,24
+2,103789,BAR,TRUE,Hernangómez,Defensive Rebound,4,33,32,24
+2,103789,JOV,FALSE,Busquets,Foul No FT,4,19,32,24
+2,103789,BAR,TRUE,Kalinic,Foul Received,4,19,32,24
+2,103789,BAR,TRUE,Satoransky,2-Point Shot Made,4,8,34,24
+2,103789,JOV,FALSE,Thomas,2-Point Shot Missed,3,48,34,24
+2,103789,BAR,TRUE,Abrines,Foul No FT,3,48,34,24
+2,103789,JOV,FALSE,Busquets,Foul Received,3,48,34,24
+2,103789,BAR,TRUE,Kalinic,Substitution - Out,3,48,34,24
+2,103789,BAR,TRUE,Laprovittola,Substitution - In,3,48,34,24
+2,103789,JOV,FALSE,Tomic,Substitution - Out,3,48,34,24
+2,103789,JOV,FALSE,Onuaku,Substitution - In,3,48,34,24
+2,103789,JOV,FALSE,Thomas,2-Point Shot Made,3,45,34,26
+2,103789,JOV,FALSE,Feliz,Assist 2-Point Shot,3,45,34,26
+2,103789,BAR,TRUE,Abrines,3-Point Shot Made,3,25,37,26
+2,103789,BAR,TRUE,Laprovittola,Assist 3-Point Shot,3,25,37,26
+2,103789,JOV,FALSE,Feliz,2-Point Shot Missed,3,4,37,26
+2,103789,JOV,FALSE,Thomas,Offensive Rebound,3,4,37,26
+2,103789,JOV,FALSE,Thomas,2-Point Shot Made,3,4,37,28
+2,103789,BAR,TRUE,Da Silva,Foul 1FT,3,4,37,28
+2,103789,JOV,FALSE,Thomas,Foul Received,3,4,37,28
+2,103789,JOV,FALSE,Thomas,Free Throw Made,3,4,37,29
+2,103789,BAR,TRUE,Abrines,3-Point Shot Missed,2,42,37,29
+2,103789,BAR,TRUE,Hernangómez,Offensive Rebound,2,42,37,29
+2,103789,BAR,TRUE,Da Silva,3-Point Shot Missed,2,33,37,29
+2,103789,JOV,FALSE,Feliz,Defensive Rebound,2,33,37,29
+2,103789,JOV,FALSE,Feliz,2-Point Shot Made,2,26,37,31
+2,103789,BAR,TRUE,Hernangómez,2-Point Shot Missed,2,8,37,31
+2,103789,BAR,TRUE,Da Silva,Offensive Rebound,2,8,37,31
+2,103789,BAR,TRUE,Da Silva,Dunk,1,59,39,31
+2,103789,BAR,TRUE,Laprovittola,Foul No FT,1,57,39,31
+2,103789,JOV,FALSE,Ribas,Foul Received,1,57,39,31
+2,103789,BAR,TRUE,Abrines,Substitution - Out,1,57,39,31
+2,103789,BAR,TRUE,Parra,Substitution - In,1,57,39,31
+2,103789,JOV,FALSE,Onuaku,2-Point Shot Made,1,48,39,33
+2,103789,JOV,FALSE,Thomas,Assist 2-Point Shot,1,48,39,33
+2,103789,BAR,TRUE,Hernangómez,2-Point Shot Made,1,25,41,33
+2,103789,BAR,TRUE,Hernangómez,Foul 2FT,1,14,41,33
+2,103789,JOV,FALSE,Onuaku,Foul Received,1,14,41,33
+2,103789,BAR,TRUE,Hernangómez,Substitution - Out,1,14,41,33
+2,103789,BAR,TRUE,Nnaji,Substitution - In,1,14,41,33
+2,103789,JOV,FALSE,Onuaku,Free Throw Made,1,14,41,34
+2,103789,JOV,FALSE,Onuaku,Free Throw Made,1,14,41,35
+2,103789,JOV,FALSE,Thomas,Foul 2FT,1,1,41,35
+2,103789,BAR,TRUE,Da Silva,Foul Received,1,1,41,35
+2,103789,BAR,TRUE,Laprovittola,Substitution - Out,1,1,41,35
+2,103789,BAR,TRUE,Jokubaitis,Substitution - In,1,1,41,35
+2,103789,BAR,TRUE,Da Silva,Free Throw Made,1,1,42,35
+2,103789,BAR,TRUE,Da Silva,Free Throw Made,1,1,43,35
+2,103789,JOV,FALSE,Thomas,Substitution - Out,1,1,43,35
+2,103789,JOV,FALSE,Brodziansky,Substitution - In,1,1,43,35
+2,103789,JOV,FALSE,Feliz,3-Point Shot Made,0,45,43,38
+2,103789,JOV,FALSE,Feliz,Foul 2FT,0,29,43,38
+2,103789,BAR,TRUE,Da Silva,Foul Received,0,29,43,38
+2,103789,BAR,TRUE,Da Silva,Free Throw Made,0,29,44,38
+2,103789,BAR,TRUE,Da Silva,Free Throw Missed,0,29,44,38
+2,103789,JOV,FALSE,Onuaku,Defensive Rebound,0,29,44,38
+2,103789,JOV,FALSE,Brodziansky,2-Point Shot Made,0,9,44,40
+2,103789,JOV,FALSE,Onuaku,Assist 2-Point Shot,0,9,44,40
+2,103789,BAR,TRUE,NA,Timeout,0,8,44,40
+2,103789,BAR,TRUE,Jokubaitis,Substitution - Out,0,8,44,40
+2,103789,BAR,TRUE,Nnaji,Substitution - Out,0,8,44,40
+2,103789,BAR,TRUE,Da Silva,Substitution - Out,0,8,44,40
+2,103789,BAR,TRUE,Abrines,Substitution - In,0,8,44,40
+2,103789,BAR,TRUE,Vesely,Substitution - In,0,8,44,40
+2,103789,BAR,TRUE,Laprovittola,Substitution - In,0,8,44,40
+2,103789,JOV,FALSE,Ribas,Substitution - Out,0,8,44,40
+2,103789,JOV,FALSE,Onuaku,Substitution - Out,0,8,44,40
+2,103789,JOV,FALSE,Tomic,Substitution - In,0,8,44,40
+2,103789,JOV,FALSE,Vives,Substitution - In,0,8,44,40
+2,103789,BAR,TRUE,Parra,3-Point Shot Missed,0,0,44,40
+2,103789,NA,FALSE,NA,End of the Quarter,0,0,44,40
+3,103789,NA,FALSE,NA,Start of the Quarter,10,0,44,40
+3,103789,BAR,TRUE,Abrines,Substitution - Out,10,0,44,40
+3,103789,BAR,TRUE,Satoransky,Substitution - Out,10,0,44,40
+3,103789,BAR,TRUE,Parra,Substitution - Out,10,0,44,40
+3,103789,BAR,TRUE,Kalinic,Substitution - In,10,0,44,40
+3,103789,BAR,TRUE,Jokubaitis,Substitution - In,10,0,44,40
+3,103789,BAR,TRUE,Da Silva,Substitution - In,10,0,44,40
+3,103789,JOV,FALSE,Tomic,Substitution - Out,10,0,44,40
+3,103789,JOV,FALSE,Vives,Substitution - Out,10,0,44,40
+3,103789,JOV,FALSE,Onuaku,Substitution - In,10,0,44,40
+3,103789,JOV,FALSE,Andrews,Substitution - In,10,0,44,40
+3,103789,BAR,TRUE,Vesely,2-Point Shot Made,9,40,46,40
+3,103789,BAR,TRUE,Jokubaitis,Assist 2-Point Shot,9,40,46,40
+3,103789,JOV,FALSE,Feliz,3-Point Shot Missed,9,16,46,40
+3,103789,JOV,FALSE,Feliz,Block Received,9,16,46,40
+3,103789,BAR,TRUE,Da Silva,Block,9,16,46,40
+3,103789,BAR,TRUE,Kalinic,Defensive Rebound,9,16,46,40
+3,103789,BAR,TRUE,Vesely,2-Point Shot Made,9,9,48,40
+3,103789,BAR,TRUE,Da Silva,Assist 2-Point Shot,9,9,48,40
+3,103789,JOV,FALSE,Feliz,3-Point Shot Missed,8,36,48,40
+3,103789,BAR,TRUE,Jokubaitis,Defensive Rebound,8,36,48,40
+3,103789,BAR,TRUE,Vesely,Dunk,8,29,50,40
+3,103789,BAR,TRUE,Jokubaitis,Assist 2-Point Shot,8,29,50,40
+3,103789,JOV,FALSE,NA,Timeout,8,29,50,40
+3,103789,JOV,FALSE,Feliz,Turnover,8,20,50,40
+3,103789,BAR,TRUE,Da Silva,Steal,8,20,50,40
+3,103789,BAR,TRUE,Kalinic,3-Point Shot Missed,8,2,50,40
+3,103789,JOV,FALSE,Busquets,Defensive Rebound,8,2,50,40
+3,103789,JOV,FALSE,Feliz,3-Point Shot Missed,7,48,50,40
+3,103789,JOV,FALSE,Onuaku,Offensive Rebound,7,48,50,40
+3,103789,BAR,TRUE,Vesely,Foul No FT,7,46,50,40
+3,103789,JOV,FALSE,Onuaku,Foul Received,7,46,50,40
+3,103789,JOV,FALSE,Feliz,Substitution - Out,7,47,50,40
+3,103789,JOV,FALSE,Vives,Substitution - In,7,47,50,40
+3,103789,JOV,FALSE,Brodziansky,Dunk,7,37,50,42
+3,103789,BAR,TRUE,Vesely,2-Point Shot Made,7,32,52,42
+3,103789,BAR,TRUE,Jokubaitis,Assist 2-Point Shot,7,32,52,42
+3,103789,JOV,FALSE,Onuaku,Substitution - Out,6,51,52,42
+3,103789,JOV,FALSE,Tomic,Substitution - In,6,51,52,42
+3,103789,BAR,TRUE,Vesely,Foul No FT,6,50,52,42
+3,103789,JOV,FALSE,Vives,Foul Received,6,50,52,42
+3,103789,BAR,TRUE,Jokubaitis,Foul No FT,6,44,52,42
+3,103789,JOV,FALSE,Andrews,Foul Received,6,44,52,42
+3,103789,JOV,FALSE,Busquets,Turnover,6,32,52,42
+3,103789,BAR,TRUE,Kalinic,Steal,6,32,52,42
+3,103789,JOV,FALSE,Busquets,Foul No FT,6,32,52,42
+3,103789,BAR,TRUE,Kalinic,Foul Received,6,32,52,42
+3,103789,NA,FALSE,NA,NA,6,32,52,42
+3,103789,JOV,FALSE,Busquets,Substitution - Out,6,32,52,42
+3,103789,JOV,FALSE,Kraag,Substitution - In,6,32,52,42
+3,103789,BAR,TRUE,Jokubaitis,2-Point Shot Missed,6,13,52,42
+3,103789,JOV,FALSE,Kraag,Defensive Rebound,6,13,52,42
+3,103789,JOV,FALSE,Brodziansky,2-Point Shot Made,5,52,52,44
+3,103789,BAR,TRUE,Vesely,Turnover,5,45,52,44
+3,103789,JOV,FALSE,Andrews,Steal,5,45,52,44
+3,103789,BAR,TRUE,Da Silva,Foul No FT,5,41,52,44
+3,103789,JOV,FALSE,Andrews,Foul Received,5,41,52,44
+3,103789,NA,FALSE,NA,NA,5,41,52,44
+3,103789,BAR,TRUE,Da Silva,Foul 2FT,5,38,52,44
+3,103789,JOV,FALSE,Vives,Foul Received,5,38,52,44
+3,103789,JOV,FALSE,Vives,Free Throw Made,5,38,52,45
+3,103789,JOV,FALSE,Vives,Free Throw Made,5,38,52,46
+3,103789,BAR,TRUE,Da Silva,Substitution - Out,5,38,52,46
+3,103789,BAR,TRUE,Parra,Substitution - In,5,38,52,46
+3,103789,JOV,FALSE,Vives,Foul No FT,5,21,52,46
+3,103789,BAR,TRUE,Vesely,Foul Received,5,21,52,46
+3,103789,BAR,TRUE,Laprovittola,Turnover,5,11,52,46
+3,103789,JOV,FALSE,Tomic,Steal,5,11,52,46
+3,103789,BAR,TRUE,Vesely,Foul 2FT,4,51,52,46
+3,103789,JOV,FALSE,Andrews,Foul Received,4,51,52,46
+3,103789,BAR,TRUE,Vesely,Substitution - Out,4,51,52,46
+3,103789,BAR,TRUE,Laprovittola,Substitution - Out,4,51,52,46
+3,103789,BAR,TRUE,Hernangómez,Substitution - In,4,51,52,46
+3,103789,BAR,TRUE,Brizuela,Substitution - In,4,51,52,46
+3,103789,JOV,FALSE,Andrews,Free Throw Made,4,51,52,47
+3,103789,JOV,FALSE,Andrews,Free Throw Made,4,51,52,48
+3,103789,BAR,TRUE,Kalinic,3-Point Shot Made,4,37,55,48
+3,103789,BAR,TRUE,Jokubaitis,Assist 3-Point Shot,4,37,55,48
+3,103789,BAR,TRUE,Jokubaitis,Foul 2FT,4,20,55,48
+3,103789,JOV,FALSE,Vives,Foul Received,4,20,55,48
+3,103789,BAR,TRUE,Jokubaitis,Substitution - Out,4,20,55,48
+3,103789,BAR,TRUE,Satoransky,Substitution - In,4,20,55,48
+3,103789,JOV,FALSE,Vives,Free Throw Made,4,20,55,49
+3,103789,JOV,FALSE,Vives,Free Throw Made,4,20,55,50
+3,103789,JOV,FALSE,Andrews,Foul No FT,4,9,55,50
+3,103789,BAR,TRUE,Brizuela,Foul Received,4,9,55,50
+3,103789,BAR,TRUE,Brizuela,3-Point Shot Made,3,58,58,50
+3,103789,JOV,FALSE,Brodziansky,2-Point Shot Missed,3,42,58,50
+3,103789,BAR,TRUE,Hernangómez,Defensive Rebound,3,42,58,50
+3,103789,BAR,TRUE,Satoransky,2-Point Shot Missed,3,21,58,50
+3,103789,JOV,FALSE,Tomic,Defensive Rebound,3,21,58,50
+3,103789,JOV,FALSE,Kraag,2-Point Shot Made,3,7,58,52
+3,103789,JOV,FALSE,Vives,Assist 2-Point Shot,3,7,58,52
+3,103789,BAR,TRUE,Satoransky,Foul 1FT,3,7,58,52
+3,103789,JOV,FALSE,Kraag,Foul Received,3,7,58,52
+3,103789,BAR,TRUE,Kalinic,Substitution - Out,3,7,58,52
+3,103789,BAR,TRUE,Abrines,Substitution - In,3,7,58,52
+3,103789,JOV,FALSE,Brodziansky,Substitution - Out,3,7,58,52
+3,103789,JOV,FALSE,Andrews,Substitution - Out,3,7,58,52
+3,103789,JOV,FALSE,Thomas,Substitution - In,3,7,58,52
+3,103789,JOV,FALSE,Ribas,Substitution - In,3,7,58,52
+3,103789,JOV,FALSE,Kraag,Free Throw Made,3,7,58,53
+3,103789,BAR,TRUE,Satoransky,3-Point Shot Missed,2,45,58,53
+3,103789,JOV,FALSE,Kraag,Defensive Rebound,2,45,58,53
+3,103789,JOV,FALSE,Vives,2-Point Shot Missed,2,27,58,53
+3,103789,JOV,FALSE,Vives,Block Received,2,27,58,53
+3,103789,BAR,TRUE,Hernangómez,Block,2,27,58,53
+3,103789,BAR,TRUE,Parra,Defensive Rebound,2,27,58,53
+3,103789,JOV,FALSE,Vives,Foul No FT,2,27,58,53
+3,103789,BAR,TRUE,Hernangómez,Foul Received,2,27,58,53
+3,103789,JOV,FALSE,Thomas,Foul 2FT,2,16,58,53
+3,103789,BAR,TRUE,Parra,Foul Received,2,16,58,53
+3,103789,JOV,FALSE,Vives,Substitution - Out,2,16,58,53
+3,103789,JOV,FALSE,Feliz,Substitution - In,2,16,58,53
+3,103789,BAR,TRUE,Parra,Free Throw Missed,2,16,58,53
+3,103789,BAR,TRUE,Parra,Free Throw Missed,2,16,58,53
+3,103789,BAR,TRUE,Hernangómez,Offensive Rebound,2,16,58,53
+3,103789,BAR,TRUE,Hernangómez,2-Point Shot Made,2,10,60,53
+3,103789,BAR,TRUE,Hernangómez,Foul 2FT,2,3,60,53
+3,103789,JOV,FALSE,Tomic,Foul Received,2,3,60,53
+3,103789,JOV,FALSE,Tomic,Free Throw Made,2,3,60,54
+3,103789,JOV,FALSE,Tomic,Free Throw Made,2,3,60,55
+3,103789,BAR,TRUE,Brizuela,2-Point Shot Made,1,50,62,55
+3,103789,JOV,FALSE,Ribas,3-Point Shot Missed,1,31,62,55
+3,103789,JOV,FALSE,Feliz,Offensive Rebound,1,31,62,55
+3,103789,JOV,FALSE,Feliz,2-Point Shot Made,1,27,62,57
+3,103789,BAR,TRUE,Brizuela,3-Point Shot Made,1,11,65,57
+3,103789,JOV,FALSE,Tomic,2-Point Shot Missed,0,47,65,57
+3,103789,BAR,TRUE,Hernangómez,Defensive Rebound,0,47,65,57
+3,103789,BAR,TRUE,Parra,2-Point Shot Missed,0,38,65,57
+3,103789,BAR,TRUE,Parra,Block Received,0,38,65,57
+3,103789,JOV,FALSE,Thomas,Block,0,38,65,57
+3,103789,JOV,FALSE,Thomas,Defensive Rebound,0,38,65,57
+3,103789,JOV,FALSE,Tomic,Turnover,0,28,65,57
+3,103789,BAR,TRUE,Hernangómez,3-Point Shot Made,0,16,68,57
+3,103789,BAR,TRUE,Satoransky,Assist 3-Point Shot,0,16,68,57
+3,103789,JOV,FALSE,Feliz,3-Point Shot Missed,0,1,68,57
+3,103789,JOV,FALSE,Kraag,Offensive Rebound,0,1,68,57
+3,103789,JOV,FALSE,Kraag,2-Point Shot Missed,0,0,68,57
+3,103789,NA,FALSE,NA,End of the Quarter,0,0,68,57
+4,103789,NA,FALSE,NA,Start of the Quarter,10,0,68,57
+4,103789,JOV,FALSE,Kraag,Substitution - Out,10,0,68,57
+4,103789,JOV,FALSE,Tomic,Substitution - Out,10,0,68,57
+4,103789,JOV,FALSE,Ribas,Substitution - Out,10,0,68,57
+4,103789,JOV,FALSE,Brodziansky,Substitution - In,10,0,68,57
+4,103789,JOV,FALSE,Onuaku,Substitution - In,10,0,68,57
+4,103789,JOV,FALSE,Andrews,Substitution - In,10,0,68,57
+4,103789,JOV,FALSE,Onuaku,2-Point Shot Missed,9,38,68,57
+4,103789,BAR,TRUE,Parra,Defensive Rebound,9,38,68,57
+4,103789,JOV,FALSE,Feliz,Foul No FT,9,36,68,57
+4,103789,BAR,TRUE,Parra,Foul Received,9,36,68,57
+4,103789,BAR,TRUE,Hernangómez,2-Point Shot Made,9,14,70,57
+4,103789,JOV,FALSE,Thomas,Foul 1FT,9,14,70,57
+4,103789,BAR,TRUE,Hernangómez,Foul Received,9,14,70,57
+4,103789,BAR,TRUE,Hernangómez,Free Throw Made,9,14,71,57
+4,103789,JOV,FALSE,Brodziansky,3-Point Shot Missed,9,13,71,57
+4,103789,JOV,FALSE,Thomas,Offensive Rebound,9,13,71,57
+4,103789,JOV,FALSE,Andrews,2-Point Shot Made,8,45,71,59
+4,103789,BAR,TRUE,Hernangómez,Turnover,8,45,71,59
+4,103789,JOV,FALSE,Andrews,Turnover,8,45,71,59
+4,103789,JOV,FALSE,Brodziansky,Foul No FT,8,24,71,59
+4,103789,BAR,TRUE,Hernangómez,Foul Received,8,24,71,59
+4,103789,BAR,TRUE,Brizuela,Turnover,8,14,71,59
+4,103789,JOV,FALSE,Feliz,Steal,8,14,71,59
+4,103789,BAR,TRUE,Brizuela,Foul No FT,8,14,71,59
+4,103789,JOV,FALSE,Feliz,Foul Received,8,14,71,59
+4,103789,JOV,FALSE,Brodziansky,2-Point Shot Missed,7,56,71,59
+4,103789,JOV,FALSE,Feliz,Offensive Rebound,7,56,71,59
+4,103789,JOV,FALSE,Feliz,2-Point Shot Missed,7,56,71,59
+4,103789,JOV,FALSE,Brodziansky,Offensive Rebound,7,56,71,59
+4,103789,JOV,FALSE,Brodziansky,2-Point Shot Missed,7,56,71,59
+4,103789,BAR,TRUE,Abrines,Defensive Rebound,7,56,71,59
+4,103789,BAR,TRUE,Abrines,3-Point Shot Made,7,36,74,59
+4,103789,BAR,TRUE,Parra,Assist 3-Point Shot,7,36,74,59
+4,103789,JOV,FALSE,Andrews,2-Point Shot Made,7,28,74,61
+4,103789,BAR,TRUE,Hernangómez,Turnover,6,59,74,61
+4,103789,JOV,FALSE,Onuaku,Steal,6,59,74,61
+4,103789,BAR,TRUE,Brizuela,Foul 2FT,6,57,74,61
+4,103789,JOV,FALSE,Andrews,Foul Received,6,57,74,61
+4,103789,JOV,FALSE,Onuaku,Assist Foul Received,6,57,74,61
+4,103789,JOV,FALSE,Feliz,Substitution - Out,6,57,74,61
+4,103789,JOV,FALSE,Vives,Substitution - In,6,57,74,61
+4,103789,JOV,FALSE,Andrews,Free Throw Made,6,57,74,62
+4,103789,JOV,FALSE,Andrews,Free Throw Made,6,57,74,63
+4,103789,BAR,TRUE,Brizuela,2-Point Shot Missed,6,36,74,63
+4,103789,BAR,TRUE,Hernangómez,Foul No FT,6,36,74,63
+4,103789,JOV,FALSE,Brodziansky,Foul Received,6,36,74,63
+4,103789,BAR,TRUE,Hernangómez,Substitution - Out,6,36,74,63
+4,103789,BAR,TRUE,Brizuela,Substitution - Out,6,36,74,63
+4,103789,BAR,TRUE,Vesely,Substitution - In,6,36,74,63
+4,103789,BAR,TRUE,Laprovittola,Substitution - In,6,36,74,63
+4,103789,JOV,FALSE,Thomas,2-Point Shot Missed,6,19,74,63
+4,103789,JOV,FALSE,Andrews,Offensive Rebound,6,19,74,63
+4,103789,JOV,FALSE,Andrews,2-Point Shot Missed,6,16,74,63
+4,103789,BAR,TRUE,NA,Defensive Rebound,6,16,74,63
+4,103789,BAR,TRUE,Satoransky,3-Point Shot Missed,5,58,74,63
+4,103789,JOV,FALSE,Onuaku,Defensive Rebound,5,58,74,63
+4,103789,JOV,FALSE,Onuaku,Turnover,5,39,74,63
+4,103789,BAR,TRUE,Satoransky,Steal,5,39,74,63
+4,103789,BAR,TRUE,Laprovittola,3-Point Shot Made,5,35,77,63
+4,103789,BAR,TRUE,Parra,Assist 3-Point Shot,5,35,77,63
+4,103789,JOV,FALSE,NA,Timeout,5,35,77,63
+4,103789,BAR,TRUE,Parra,Substitution - Out,5,35,77,63
+4,103789,BAR,TRUE,Parker,Substitution - In,5,35,77,63
+4,103789,JOV,FALSE,Thomas,Substitution - Out,5,35,77,63
+4,103789,JOV,FALSE,Feliz,Substitution - In,5,35,77,63
+4,103789,JOV,FALSE,Vives,3-Point Shot Made,5,18,77,66
+4,103789,JOV,FALSE,Feliz,Assist 3-Point Shot,5,18,77,66
+4,103789,JOV,FALSE,Onuaku,Foul No FT,5,9,77,66
+4,103789,BAR,TRUE,Vesely,Foul Received,5,9,77,66
+4,103789,BAR,TRUE,Parker,Dunk,4,52,79,66
+4,103789,BAR,TRUE,Abrines,Assist 2-Point Shot,4,52,79,66
+4,103789,JOV,FALSE,Onuaku,2-Point Shot Made,4,33,79,68
+4,103789,JOV,FALSE,Andrews,Assist 2-Point Shot,4,33,79,68
+4,103789,BAR,TRUE,Laprovittola,2-Point Shot Made,4,15,81,68
+4,103789,BAR,TRUE,Vesely,Assist 2-Point Shot,4,15,81,68
+4,103789,JOV,FALSE,Onuaku,Dunk,3,51,81,70
+4,103789,JOV,FALSE,Brodziansky,Assist 2-Point Shot,3,51,81,70
+4,103789,BAR,TRUE,Vesely,Turnover,3,35,81,70
+4,103789,JOV,FALSE,Vives,Steal,3,35,81,70
+4,103789,JOV,FALSE,Onuaku,2-Point Shot Missed,3,16,81,70
+4,103789,BAR,TRUE,Vesely,Defensive Rebound,3,16,81,70
+4,103789,BAR,TRUE,Satoransky,Turnover,3,9,81,70
+4,103789,JOV,FALSE,Feliz,Steal,3,9,81,70
+4,103789,JOV,FALSE,Feliz,2-Point Shot Made,3,8,81,72
+4,103789,BAR,TRUE,NA,Timeout,3,8,81,72
+4,103789,BAR,TRUE,Abrines,Substitution - Out,3,8,81,72
+4,103789,BAR,TRUE,Kalinic,Substitution - In,3,8,81,72
+4,103789,BAR,TRUE,Parker,3-Point Shot Made,2,48,84,72
+4,103789,BAR,TRUE,Vesely,Assist 3-Point Shot,2,48,84,72
+4,103789,BAR,TRUE,Vesely,Foul 2FT,2,31,84,72
+4,103789,JOV,FALSE,Brodziansky,Foul Received,2,31,84,72
+4,103789,JOV,FALSE,Andrews,Assist Foul Received,2,31,84,72
+4,103789,JOV,FALSE,Brodziansky,Free Throw Made,2,31,84,73
+4,103789,JOV,FALSE,Brodziansky,Free Throw Made,2,31,84,74
+4,103789,JOV,FALSE,Onuaku,Foul 2FT,2,13,84,74
+4,103789,BAR,TRUE,Satoransky,Foul Received,2,13,84,74
+4,103789,BAR,TRUE,Satoransky,Free Throw Made,2,13,85,74
+4,103789,BAR,TRUE,Satoransky,Free Throw Missed,2,13,85,74
+4,103789,JOV,FALSE,Andrews,Defensive Rebound,2,13,85,74
+4,103789,BAR,TRUE,Satoransky,Foul 2FT,2,7,85,74
+4,103789,JOV,FALSE,Andrews,Foul Received,2,7,85,74
+4,103789,JOV,FALSE,Onuaku,Substitution - Out,2,7,85,74
+4,103789,JOV,FALSE,Thomas,Substitution - In,2,7,85,74
+4,103789,JOV,FALSE,Andrews,Free Throw Made,2,7,85,75
+4,103789,JOV,FALSE,Andrews,Free Throw Made,2,7,85,76
+4,103789,BAR,TRUE,Parker,3-Point Shot Made,1,45,88,76
+4,103789,BAR,TRUE,Laprovittola,Assist 3-Point Shot,1,45,88,76
+4,103789,JOV,FALSE,Thomas,2-Point Shot Made,1,35,88,78
+4,103789,BAR,TRUE,Kalinic,3-Point Shot Made,1,17,91,78
+4,103789,BAR,TRUE,Laprovittola,Assist 3-Point Shot,1,17,91,78
+4,103789,JOV,FALSE,Andrews,Turnover,1,0,91,78
+4,103789,BAR,TRUE,Kalinic,Steal,1,0,91,78
+4,103789,BAR,TRUE,Laprovittola,2-Point Shot Made,1,0,93,78
+4,103789,BAR,TRUE,Kalinic,Assist 2-Point Shot,1,0,93,78
+4,103789,JOV,FALSE,NA,Timeout,1,0,93,78
+4,103789,JOV,FALSE,Vives,3-Point Shot Missed,0,43,93,78
+4,103789,BAR,TRUE,Vesely,Defensive Rebound,0,43,93,78
+4,103789,BAR,TRUE,Laprovittola,2-Point Shot Missed,0,27,93,78
+4,103789,JOV,FALSE,Brodziansky,Defensive Rebound,0,27,93,78
+4,103789,BAR,TRUE,Parker,Foul 2FT,0,18,93,78
+4,103789,JOV,FALSE,Thomas,Foul Received,0,18,93,78
+4,103789,JOV,FALSE,Thomas,Free Throw Made,0,18,93,79
+4,103789,JOV,FALSE,Thomas,Free Throw Missed,0,18,93,79
+4,103789,BAR,TRUE,Parker,Defensive Rebound,0,18,93,79
+4,103789,BAR,TRUE,Parker,2-Point Shot Made,0,0,95,79
+4,103789,BAR,TRUE,Satoransky,Assist 2-Point Shot,0,0,95,79
+4,103789,NA,FALSE,NA,NA,0,0,95,79
+4,103789,NA,FALSE,NA,End of the Quarter,0,0,95,79
+4,103789,NA,FALSE,NA,End of the Game,0,0,95,79
